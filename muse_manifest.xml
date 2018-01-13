@@ -1,0 +1,276 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://billyjesse.github.io/billyjuice" resolutions="1x" timestamp="1515821764666">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="514415596" ref="gallery:personal-art:animations:contact:3d:graphic-designs:resume:index"/>
+    <file name="gallery.css" crc="147024285" ref="gallery"/>
+    <file name="personal-art.css" crc="3832053276" ref="personal-art"/>
+    <file name="animations.css" crc="4207730148" ref="animations"/>
+    <file name="contact.css" crc="4269960344" ref="contact"/>
+    <file name="3d.css" crc="33743760" ref="3d"/>
+    <file name="graphic-designs.css" crc="3922055667" ref="graphic-designs"/>
+    <file name="resume.css" crc="198653624" ref="resume"/>
+    <file name="index.css" crc="3976080567" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="bean-man---billy-jesse.mov" crc="38596971" seo="true" mt="1489500361000"/>
+    <file name="billy-ball.mov" crc="320876140" seo="true" mt="1487710643000"/>
+    <file name="flag-wave---billy-jesse.mov" crc="4152133592" seo="true" mt="1493002846000"/>
+    <file name="flour-billy.mov" crc="3895854670" seo="true" mt="1493912749000"/>
+    <file name="billy-jesse---resume.pdf" crc="163977191" seo="true" mt="1514854316000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:gallery:contact:graphic-designs:animations:personal-art:resume:3d"/>
+    <file name="museutils.js" crc="4216313831" ref="index:gallery:contact:graphic-designs:animations:personal-art:resume:3d"/>
+    <file name="whatinput.js" crc="86476730" ref="index:gallery:contact:graphic-designs:animations:personal-art:resume:3d"/>
+    <file name="museconfig.js" crc="4177022356" ref="index:gallery:contact:graphic-designs:animations:personal-art:resume:3d"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="index:gallery:contact:graphic-designs:animations:personal-art:resume:3d"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:gallery:contact:graphic-designs:animations:personal-art:resume:3d"/>
+    <file name="webpro.js" crc="4143865194" ref="index:graphic-designs:animations:personal-art:3d"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="index:graphic-designs:animations:personal-art:3d"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="index:graphic-designs:animations:personal-art:3d"/>
+    <file name="touchswipe.js" crc="4200445185" ref="index:graphic-designs:animations:personal-art:3d"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:gallery:contact:graphic-designs:animations:personal-art:resume:3d"/>
+    <file name="require.js" crc="3951022091" ref="index:gallery:contact:graphic-designs:animations:personal-art:resume:3d"/>
+  </folder>
+  <folder name="images">
+    <file name="untitled-2.svg" crc="4273668866" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-2_poster_.png" crc="4051319925" ref="index"/>
+    <file name="u4558-4.png" crc="4087650233" ref="index"/>
+    <file name="swamp turntable.gif" crc="3883618502" seo="true" ref="index:3d">
+      <caption webpage="index" alt=""/>
+      <caption webpage="3d" alt=""/>
+      <caption webpage="3d" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:graphic-designs:animations:personal-art:3d"/>
+    <file name="toucan.gif" crc="194987861" seo="true" ref="index:3d">
+      <caption webpage="index" alt=""/>
+      <caption webpage="3d" alt=""/>
+      <caption webpage="3d" alt=""/>
+    </file>
+    <file name="toucan.jpg" crc="311246453" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="leaf.gif" crc="4221822210" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:graphic-designs:animations:personal-art:3d"/>
+    <file name="maface-crop-u4571.jpg" crc="424489908" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u4858-4.png" crc="243647118" ref="gallery"/>
+    <file name="wot.jpg" crc="4117659083" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="u5395-4.png" crc="285864009" ref="gallery"/>
+    <file name="u4871-4.png" crc="3976115497" ref="gallery"/>
+    <file name="ummm.jpg" crc="3956355729" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="u4861-4.png" crc="29437611" ref="gallery"/>
+    <file name="haha.gif" crc="3927426597" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="u4867-4.png" crc="388490017" ref="gallery"/>
+    <file name="u4881-4.png" crc="199302935" ref="graphic-designs"/>
+    <file name="boxer final-01.png" crc="266625558" seo="true" ref="graphic-designs">
+      <caption webpage="graphic-designs" alt=""/>
+    </file>
+    <file name="crawfish.png" crc="4217524894" seo="true" ref="graphic-designs">
+      <caption webpage="graphic-designs" alt=""/>
+    </file>
+    <file name="lupi final.png" crc="3760656802" seo="true" ref="graphic-designs">
+      <caption webpage="graphic-designs" alt=""/>
+    </file>
+    <file name="day at the beach final-01.jpg" crc="460329742" seo="true" ref="graphic-designs">
+      <caption webpage="graphic-designs" alt=""/>
+    </file>
+    <file name="kokonati with shadow-01.jpg" crc="4098691979" seo="true" ref="graphic-designs">
+      <caption webpage="graphic-designs" alt=""/>
+    </file>
+    <file name="tartbreak-01.jpg" crc="3913928064" seo="true" ref="graphic-designs">
+      <caption webpage="graphic-designs" alt=""/>
+    </file>
+    <file name="u3409.png" crc="4067610707" ref="graphic-designs"/>
+    <file name="u3409-r.png" crc="4246150142" ref="graphic-designs"/>
+    <file name="u3409-a.png" crc="381464187" ref="graphic-designs"/>
+    <file name="u3522.png" crc="3795636229" ref="graphic-designs"/>
+    <file name="u3522-r.png" crc="384249759" ref="graphic-designs"/>
+    <file name="u3522-a.png" crc="3855114541" ref="graphic-designs"/>
+    <file name="u3542.png" crc="343012722" ref="graphic-designs"/>
+    <file name="u3542-r.png" crc="330876671" ref="graphic-designs"/>
+    <file name="u3542-a.png" crc="4031198641" ref="graphic-designs"/>
+    <file name="day at the beach final-01-crop-u3576.jpg" crc="4053613734" seo="true" ref="graphic-designs">
+      <caption webpage="graphic-designs" alt=""/>
+    </file>
+    <file name="kokonati with shadow-01-crop-u3596.jpg" crc="62512853" seo="true" ref="graphic-designs">
+      <caption webpage="graphic-designs" alt=""/>
+    </file>
+    <file name="tartbreak-01-crop-u4471.jpg" crc="3890224539" seo="true" ref="graphic-designs">
+      <caption webpage="graphic-designs" alt=""/>
+    </file>
+    <file name="unravel_shadowpuppet_poster-crop-u4030.png" crc="3920679694" seo="true" ref="graphic-designs">
+      <caption webpage="graphic-designs" alt=""/>
+    </file>
+    <file name="color1.jpg" crc="87506176" seo="true" ref="graphic-designs">
+      <caption webpage="graphic-designs" alt=""/>
+    </file>
+    <file name="color2.jpg" crc="296340060" seo="true" ref="graphic-designs">
+      <caption webpage="graphic-designs" alt=""/>
+    </file>
+    <file name="u4045.png" crc="3925414378" ref="graphic-designs"/>
+    <file name="u4045-r.png" crc="3946933166" ref="graphic-designs"/>
+    <file name="u4045-a.png" crc="300575704" ref="graphic-designs"/>
+    <file name="color1-crop-u4175.jpg" crc="531287434" seo="true" ref="graphic-designs">
+      <caption webpage="graphic-designs" alt=""/>
+    </file>
+    <file name="color2-crop-u4195.jpg" crc="3820374718" seo="true" ref="graphic-designs">
+      <caption webpage="graphic-designs" alt=""/>
+    </file>
+    <file name="u4892-4.png" crc="3816435718" ref="animations"/>
+    <file name="bean man-billy jesse.gif" crc="4115301776" seo="true" ref="animations">
+      <caption webpage="animations" alt=""/>
+      <caption webpage="animations" alt=""/>
+    </file>
+    <file name="billy ball.gif" crc="475451026" seo="true" ref="animations">
+      <caption webpage="animations" alt=""/>
+      <caption webpage="animations" alt=""/>
+    </file>
+    <file name="flag wave - billy jesse.gif" crc="250155514" seo="true" ref="animations">
+      <caption webpage="animations" alt=""/>
+      <caption webpage="animations" alt=""/>
+    </file>
+    <file name="flour billy.gif" crc="4256721270" seo="true" ref="animations">
+      <caption webpage="animations" alt=""/>
+      <caption webpage="animations" alt=""/>
+    </file>
+    <file name="u4878-4.png" crc="3766619949" ref="personal-art"/>
+    <file name="goblin rens.jpg" crc="94831703" seo="true" ref="personal-art">
+      <caption webpage="personal-art" alt=""/>
+    </file>
+    <file name="celi2.jpg" crc="3985714591" seo="true" ref="personal-art">
+      <caption webpage="personal-art" alt=""/>
+    </file>
+    <file name="goblin rens-crop-u3321.jpg" crc="3866837618" seo="true" ref="personal-art">
+      <caption webpage="personal-art" alt=""/>
+    </file>
+    <file name="celi2-crop-u3195.jpg" crc="4032382098" seo="true" ref="personal-art">
+      <caption webpage="personal-art" alt=""/>
+    </file>
+    <file name="muffet.png" crc="4134857260" seo="true" ref="personal-art">
+      <caption webpage="personal-art" alt=""/>
+    </file>
+    <file name="celi.png" crc="4175574184" seo="true" ref="personal-art">
+      <caption webpage="personal-art" alt=""/>
+    </file>
+    <file name="chell.png" crc="51025194" seo="true" ref="personal-art">
+      <caption webpage="personal-art" alt=""/>
+    </file>
+    <file name="muffet-crop-u2770.png" crc="4138952904" seo="true" ref="personal-art">
+      <caption webpage="personal-art" alt=""/>
+    </file>
+    <file name="celi-crop-u2466.png" crc="3850633826" seo="true" ref="personal-art">
+      <caption webpage="personal-art" alt=""/>
+    </file>
+    <file name="chell-crop-u2744.png" crc="10945654" seo="true" ref="personal-art">
+      <caption webpage="personal-art" alt=""/>
+    </file>
+    <file name="yelow hilan.png" crc="4128593560" seo="true" ref="personal-art">
+      <caption webpage="personal-art" alt=""/>
+    </file>
+    <file name="cel.png" crc="353291285" seo="true" ref="personal-art">
+      <caption webpage="personal-art" alt=""/>
+    </file>
+    <file name="fenral.png" crc="487328572" seo="true" ref="personal-art">
+      <caption webpage="personal-art" alt=""/>
+    </file>
+    <file name="fenx.png" crc="4082457837" seo="true" ref="personal-art">
+      <caption webpage="personal-art" alt=""/>
+    </file>
+    <file name="hands of telrak.png" crc="102784269" seo="true" ref="personal-art">
+      <caption webpage="personal-art" alt=""/>
+    </file>
+    <file name="kor.png" crc="4185236188" seo="true" ref="personal-art">
+      <caption webpage="personal-art" alt=""/>
+    </file>
+    <file name="lavalord.png" crc="4039628102" seo="true" ref="personal-art">
+      <caption webpage="personal-art" alt=""/>
+    </file>
+    <file name="masks.jpg" crc="272584437" seo="true" ref="personal-art">
+      <caption webpage="personal-art" alt=""/>
+    </file>
+    <file name="praise.png" crc="316398543" seo="true" ref="personal-art">
+      <caption webpage="personal-art" alt=""/>
+    </file>
+    <file name="lunar2015.jpg" crc="174197554" seo="true" ref="personal-art">
+      <caption webpage="personal-art" alt=""/>
+    </file>
+    <file name="2015.jpg" crc="3801298814" seo="true" ref="personal-art">
+      <caption webpage="personal-art" alt=""/>
+    </file>
+    <file name="yelow hilan-crop-u2074.png" crc="4236930100" seo="true" ref="personal-art">
+      <caption webpage="personal-art" alt=""/>
+    </file>
+    <file name="cel-crop-u1840.png" crc="401849610" seo="true" ref="personal-art">
+      <caption webpage="personal-art" alt=""/>
+    </file>
+    <file name="fenral-crop-u1866.png" crc="4224753088" seo="true" ref="personal-art">
+      <caption webpage="personal-art" alt=""/>
+    </file>
+    <file name="fenx-crop-u1892.png" crc="270998389" seo="true" ref="personal-art">
+      <caption webpage="personal-art" alt=""/>
+    </file>
+    <file name="hands of telrak-crop-u1918.png" crc="4207715277" seo="true" ref="personal-art">
+      <caption webpage="personal-art" alt=""/>
+    </file>
+    <file name="kor-crop-u1944.png" crc="3804507777" seo="true" ref="personal-art">
+      <caption webpage="personal-art" alt=""/>
+    </file>
+    <file name="lavalord-crop-u1970.png" crc="4161813399" seo="true" ref="personal-art">
+      <caption webpage="personal-art" alt=""/>
+    </file>
+    <file name="masks-crop-u2022.jpg" crc="4135931446" seo="true" ref="personal-art">
+      <caption webpage="personal-art" alt=""/>
+    </file>
+    <file name="praise-crop-u2048.png" crc="153211308" seo="true" ref="personal-art">
+      <caption webpage="personal-art" alt=""/>
+    </file>
+    <file name="lunar2015-crop-u1996.jpg" crc="122366952" seo="true" ref="personal-art">
+      <caption webpage="personal-art" alt=""/>
+    </file>
+    <file name="2015-crop-u1679.jpg" crc="4157450735" seo="true" ref="personal-art">
+      <caption webpage="personal-art" alt=""/>
+    </file>
+    <file name="billy - resume-01.jpg" crc="403168104" seo="true" ref="resume">
+      <caption webpage="resume" alt=""/>
+    </file>
+    <file name="u5334-5.png" crc="383011530" ref="3d"/>
+    <file name="motte and bailey billy jesse.png" crc="194889032" seo="true" ref="3d">
+      <caption webpage="3d" alt=""/>
+    </file>
+    <file name="reference.jpg" crc="197644050" seo="true" ref="3d">
+      <caption webpage="3d" alt=""/>
+    </file>
+    <file name="toucaan.jpg" crc="199807551" seo="true" ref="3d">
+      <caption webpage="3d" alt=""/>
+    </file>
+    <file name="u6259.png" crc="311730373" ref="3d"/>
+    <file name="u6259-r.png" crc="121083882" ref="3d"/>
+    <file name="u6259-a.png" crc="3982370785" ref="3d"/>
+    <file name="u6279.png" crc="4062880535" ref="3d"/>
+    <file name="u6279-r.png" crc="374284099" ref="3d"/>
+    <file name="u6279-a.png" crc="357547121" ref="3d"/>
+    <file name="u6299.png" crc="3901538133" ref="3d"/>
+    <file name="u6299-r.png" crc="4181283124" ref="3d"/>
+    <file name="u6299-a.png" crc="388721888" ref="3d"/>
+  </folder>
+  <file name="index.html" crc="3968061993" seo="true" mt="1515812826322" redirect="true"/>
+  <file name="gallery.html" crc="307517522" seo="true" mt="1515772364071" redirect="true"/>
+  <file name="contact.html" crc="4131798232" seo="true" mt="1515771650155" redirect="true"/>
+  <file name="graphic-designs.html" crc="4044665291" seo="true" mt="1515771603980" redirect="true"/>
+  <file name="animations.html" crc="272584804" seo="true" mt="1515771603980" redirect="true"/>
+  <file name="personal-art.html" crc="4033756324" seo="true" mt="1515771603980" redirect="true"/>
+  <file name="resume.html" crc="3840453723" seo="true" mt="1515777307806" redirect="true"/>
+  <file name="3d.html" crc="535430372" seo="true" mt="1515811543317" redirect="true"/>
+</manifest>

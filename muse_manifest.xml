@@ -1,15 +1,35 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://billyjesse.github.io/billyjuice" resolutions="1x" timestamp="1515821764666">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://billyjesse.github.io/billyjuice" resolutions="1x" timestamp="1515900719592">
+  <folder name="phone">
+    <folder name="css">
+      <file name="personal-art.css" crc="62426684" ref="phone>personal-art"/>
+      <file name="gallery.css" crc="62426684" ref="phone>gallery"/>
+      <file name="animations.css" crc="62426684" ref="phone>animations"/>
+      <file name="3d.css" crc="62426684" ref="phone>3d"/>
+      <file name="contact.css" crc="62426684" ref="phone>contact"/>
+      <file name="graphic-designs.css" crc="62426684" ref="phone>graphic-designs"/>
+      <file name="resume.css" crc="62426684" ref="phone>resume"/>
+      <file name="index.css" crc="4142211492" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="356458547" seo="true" mt="1515900683795" redirect="true"/>
+    <file name="gallery.html" crc="4174555785" seo="true" mt="1515898406622" redirect="false"/>
+    <file name="personal-art.html" crc="3992950545" seo="true" mt="1515898406958" redirect="false"/>
+    <file name="graphic-designs.html" crc="257263019" seo="true" mt="1515898406976" redirect="false"/>
+    <file name="animations.html" crc="3966548208" seo="true" mt="1515898406989" redirect="false"/>
+    <file name="3d.html" crc="3846548381" seo="true" mt="1515898407002" redirect="false"/>
+    <file name="contact.html" crc="81154918" seo="true" mt="1515898407014" redirect="false"/>
+    <file name="resume.html" crc="4163503739" seo="true" mt="1515898407027" redirect="false"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="514415596" ref="gallery:personal-art:animations:contact:3d:graphic-designs:resume:index"/>
-    <file name="gallery.css" crc="147024285" ref="gallery"/>
-    <file name="personal-art.css" crc="3832053276" ref="personal-art"/>
-    <file name="animations.css" crc="4207730148" ref="animations"/>
-    <file name="contact.css" crc="4269960344" ref="contact"/>
-    <file name="3d.css" crc="33743760" ref="3d"/>
-    <file name="graphic-designs.css" crc="3922055667" ref="graphic-designs"/>
-    <file name="resume.css" crc="198653624" ref="resume"/>
-    <file name="index.css" crc="3976080567" ref="index"/>
+    <file name="master_a-master.css" crc="459776887" ref="gallery:personal-art:animations:contact:3d:graphic-designs:resume:index"/>
+    <file name="gallery.css" crc="4195510856" ref="gallery"/>
+    <file name="personal-art.css" crc="4126451546" ref="personal-art"/>
+    <file name="animations.css" crc="219335388" ref="animations"/>
+    <file name="contact.css" crc="184985522" ref="contact"/>
+    <file name="3d.css" crc="3839306662" ref="3d"/>
+    <file name="graphic-designs.css" crc="279277289" ref="graphic-designs"/>
+    <file name="resume.css" crc="4104104534" ref="resume"/>
+    <file name="index.css" crc="421860833" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="bean-man---billy-jesse.mov" crc="38596971" seo="true" mt="1489500361000"/>
@@ -19,18 +39,19 @@
     <file name="billy-jesse---resume.pdf" crc="163977191" seo="true" mt="1514854316000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:gallery:contact:graphic-designs:animations:personal-art:resume:3d"/>
-    <file name="museutils.js" crc="4216313831" ref="index:gallery:contact:graphic-designs:animations:personal-art:resume:3d"/>
-    <file name="whatinput.js" crc="86476730" ref="index:gallery:contact:graphic-designs:animations:personal-art:resume:3d"/>
-    <file name="museconfig.js" crc="4177022356" ref="index:gallery:contact:graphic-designs:animations:personal-art:resume:3d"/>
-    <file name="jquery.musemenu.js" crc="493622299" ref="index:gallery:contact:graphic-designs:animations:personal-art:resume:3d"/>
-    <file name="jquery.watch.js" crc="460461809" ref="index:gallery:contact:graphic-designs:animations:personal-art:resume:3d"/>
-    <file name="webpro.js" crc="4143865194" ref="index:graphic-designs:animations:personal-art:3d"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:gallery:contact:graphic-designs:animations:personal-art:resume:3d:phone>index:phone>gallery:phone>personal-art:phone>graphic-designs:phone>animations:phone>3d:phone>contact:phone>resume"/>
+    <file name="museutils.js" crc="4216313831" ref="index:gallery:contact:graphic-designs:animations:personal-art:resume:3d:phone>index:phone>gallery:phone>personal-art:phone>graphic-designs:phone>animations:phone>3d:phone>contact:phone>resume"/>
+    <file name="whatinput.js" crc="86476730" ref="index:gallery:contact:graphic-designs:animations:personal-art:resume:3d:phone>index:phone>gallery:phone>personal-art:phone>graphic-designs:phone>animations:phone>3d:phone>contact:phone>resume"/>
+    <file name="museconfig.js" crc="4177022356" ref="index:gallery:contact:graphic-designs:animations:personal-art:resume:3d:phone>index:phone>gallery:phone>personal-art:phone>graphic-designs:phone>animations:phone>3d:phone>contact:phone>resume"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="index:gallery:contact:graphic-designs:animations:personal-art:resume:3d:phone>index"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:gallery:contact:graphic-designs:animations:personal-art:resume:3d:phone>index:phone>gallery:phone>personal-art:phone>graphic-designs:phone>animations:phone>3d:phone>contact:phone>resume"/>
+    <file name="webpro.js" crc="4143865194" ref="index:graphic-designs:animations:personal-art:3d:phone>index"/>
     <file name="musewpslideshow.js" crc="3781122836" ref="index:graphic-designs:animations:personal-art:3d"/>
     <file name="jquery.museoverlay.js" crc="4030747646" ref="index:graphic-designs:animations:personal-art:3d"/>
     <file name="touchswipe.js" crc="4200445185" ref="index:graphic-designs:animations:personal-art:3d"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:gallery:contact:graphic-designs:animations:personal-art:resume:3d"/>
-    <file name="require.js" crc="3951022091" ref="index:gallery:contact:graphic-designs:animations:personal-art:resume:3d"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:gallery:contact:graphic-designs:animations:personal-art:resume:3d:phone>index:phone>gallery:phone>personal-art:phone>graphic-designs:phone>animations:phone>3d:phone>contact:phone>resume"/>
+    <file name="require.js" crc="3951022091" ref="index:gallery:contact:graphic-designs:animations:personal-art:resume:3d:phone>index:phone>gallery:phone>personal-art:phone>graphic-designs:phone>animations:phone>3d:phone>contact:phone>resume"/>
+    <file name="musewpdisclosure.js" crc="4050941203" ref="phone>index"/>
   </folder>
   <folder name="images">
     <file name="untitled-2.svg" crc="4273668866" seo="true" ref="index">
@@ -265,12 +286,12 @@
     <file name="u6299-r.png" crc="4181283124" ref="3d"/>
     <file name="u6299-a.png" crc="388721888" ref="3d"/>
   </folder>
-  <file name="index.html" crc="3968061993" seo="true" mt="1515812826322" redirect="true"/>
-  <file name="gallery.html" crc="307517522" seo="true" mt="1515772364071" redirect="true"/>
-  <file name="contact.html" crc="4131798232" seo="true" mt="1515771650155" redirect="true"/>
-  <file name="graphic-designs.html" crc="4044665291" seo="true" mt="1515771603980" redirect="true"/>
-  <file name="animations.html" crc="272584804" seo="true" mt="1515771603980" redirect="true"/>
-  <file name="personal-art.html" crc="4033756324" seo="true" mt="1515771603980" redirect="true"/>
-  <file name="resume.html" crc="3840453723" seo="true" mt="1515777307806" redirect="true"/>
-  <file name="3d.html" crc="535430372" seo="true" mt="1515811543317" redirect="true"/>
+  <file name="index.html" crc="3820634267" seo="true" mt="1515898407218" redirect="true"/>
+  <file name="gallery.html" crc="222432009" seo="true" mt="1515898407318" redirect="true"/>
+  <file name="contact.html" crc="3832329986" seo="true" mt="1515898407697" redirect="true"/>
+  <file name="graphic-designs.html" crc="3919405674" seo="true" mt="1515898407454" redirect="true"/>
+  <file name="animations.html" crc="414751365" seo="true" mt="1515898407531" redirect="true"/>
+  <file name="personal-art.html" crc="3858710517" seo="true" mt="1515898407386" redirect="true"/>
+  <file name="resume.html" crc="165382435" seo="true" mt="1515898407781" redirect="true"/>
+  <file name="3d.html" crc="4201431108" seo="true" mt="1515898407616" redirect="true"/>
 </manifest>

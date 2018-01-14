@@ -2,9 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://billyjesse.github.io/billyjuice/index.html</loc>
-    <lastmod>2018-01-12</lastmod>
+    <lastmod>2018-01-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="https://billyjesse.github.io/billyjuice/phone/index.html"/>
     <image:image>
       <image:loc>https://billyjesse.github.io/billyjuice/images/untitled-2.svg</image:loc>
     </image:image>
@@ -26,7 +27,7 @@
   </url>
   <url>
     <loc>https://billyjesse.github.io/billyjuice/gallery.html</loc>
-    <lastmod>2018-01-12</lastmod>
+    <lastmod>2018-01-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -41,13 +42,13 @@
   </url>
   <url>
     <loc>https://billyjesse.github.io/billyjuice/contact.html</loc>
-    <lastmod>2018-01-12</lastmod>
+    <lastmod>2018-01-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://billyjesse.github.io/billyjuice/graphic-designs.html</loc>
-    <lastmod>2018-01-12</lastmod>
+    <lastmod>2018-01-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -95,7 +96,7 @@
   </url>
   <url>
     <loc>https://billyjesse.github.io/billyjuice/resume.html</loc>
-    <lastmod>2018-01-12</lastmod>
+    <lastmod>2018-01-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -104,7 +105,7 @@
   </url>
   <url>
     <loc>https://billyjesse.github.io/billyjuice/personal-art.html</loc>
-    <lastmod>2018-01-12</lastmod>
+    <lastmod>2018-01-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -206,7 +207,7 @@
   </url>
   <url>
     <loc>https://billyjesse.github.io/billyjuice/3d.html</loc>
-    <lastmod>2018-01-12</lastmod>
+    <lastmod>2018-01-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -227,7 +228,7 @@
   </url>
   <url>
     <loc>https://billyjesse.github.io/billyjuice/animations.html</loc>
-    <lastmod>2018-01-12</lastmod>
+    <lastmod>2018-01-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>

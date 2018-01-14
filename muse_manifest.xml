@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://billyjesse.github.io/billyjuice" resolutions="1x" timestamp="1515924559329">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://billyjesse.github.io/billyjuice" resolutions="1x" timestamp="1515924913292">
   <folder name="phone">
     <folder name="css">
       <file name="personal-art.css" crc="4223331895" ref="phone>personal-art"/>
@@ -11,14 +11,14 @@
       <file name="index.css" crc="4223331895" ref="phone>index"/>
       <file name="master_a-master.css" crc="4241889905" ref="phone>personal-art:phone>gallery:phone>animations:phone>3d:phone>contact:phone>graphic-designs:phone>resume:phone>index"/>
     </folder>
-    <file name="index.html" crc="495099184" seo="true" mt="1515924528507" redirect="true"/>
-    <file name="gallery.html" crc="421537575" seo="true" mt="1515924528507" redirect="true"/>
-    <file name="personal-art.html" crc="3916170945" seo="true" mt="1515924528507" redirect="true"/>
-    <file name="graphic-designs.html" crc="171194460" seo="true" mt="1515924528507" redirect="true"/>
-    <file name="animations.html" crc="4221058183" seo="true" mt="1515924528507" redirect="true"/>
-    <file name="3d.html" crc="4145906306" seo="true" mt="1515924528507" redirect="true"/>
-    <file name="contact.html" crc="4098972543" seo="true" mt="1515924528507" redirect="true"/>
-    <file name="resume.html" crc="4251131802" seo="true" mt="1515924528507" redirect="true"/>
+    <file name="index.html" crc="336338893" seo="true" mt="1515924884601" redirect="true"/>
+    <file name="gallery.html" crc="3886475654" seo="true" mt="1515924884601" redirect="true"/>
+    <file name="personal-art.html" crc="172262658" seo="true" mt="1515924884601" redirect="true"/>
+    <file name="graphic-designs.html" crc="3910974367" seo="true" mt="1515924884601" redirect="true"/>
+    <file name="animations.html" crc="317128769" seo="true" mt="1515924884601" redirect="true"/>
+    <file name="3d.html" crc="4082998880" seo="true" mt="1515924884601" redirect="true"/>
+    <file name="contact.html" crc="4126121519" seo="true" mt="1515924884601" redirect="true"/>
+    <file name="resume.html" crc="252368171" seo="true" mt="1515924884601" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>

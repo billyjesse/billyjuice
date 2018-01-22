@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://billyjesse.github.io/billyjuice" resolutions="1x" timestamp="1515936811352">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://billyjesse.github.io/billyjuice" resolutions="1x" timestamp="1516642734352">
   <folder name="fonts">
     <file name="fontawesome-webfont.woff" crc="462672289"/>
     <file name="fontawesome-webfont.eot" crc="415170694"/>
@@ -30,12 +30,12 @@
     <file name="master_a-master.css" crc="459776887" ref="gallery:personal-art:animations:contact:3d:graphic-designs:resume:index"/>
     <file name="gallery.css" crc="4195510856" ref="gallery"/>
     <file name="personal-art.css" crc="4126451546" ref="personal-art"/>
-    <file name="animations.css" crc="219335388" ref="animations"/>
+    <file name="animations.css" crc="495511618" ref="animations"/>
     <file name="contact.css" crc="184985522" ref="contact"/>
-    <file name="3d.css" crc="3839306662" ref="3d"/>
+    <file name="3d.css" crc="3876267748" ref="3d"/>
     <file name="graphic-designs.css" crc="279277289" ref="graphic-designs"/>
     <file name="resume.css" crc="4104104534" ref="resume"/>
-    <file name="index.css" crc="421860833" ref="index"/>
+    <file name="index.css" crc="4227706775" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="bean-man---billy-jesse.mov" crc="38596971" seo="true" mt="1489500361000"/>
@@ -61,19 +61,18 @@
   </folder>
   <folder name="images">
     <file name="untitled-2.svg" crc="4273668866" seo="true" ref="index:phone>index:phone>gallery:phone>personal-art:phone>graphic-designs:phone>animations:phone>3d:phone>contact:phone>resume">
-      <caption webpage="contact" alt=""/>
-      <caption webpage="graphic-designs" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="animations" alt=""/>
       <caption webpage="3d" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="personal-art" alt=""/>
       <caption webpage="gallery" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="graphic-designs" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="animations" alt=""/>
+      <caption webpage="personal-art" alt=""/>
     </file>
-    <file name="untitled-2_poster_.png" crc="211971575" ref="index:phone>index"/>
+    <file name="untitled-2_poster_.png" crc="4051319925" ref="index:phone>index"/>
     <file name="u4558-4.png" crc="4087650233" ref="index"/>
     <file name="swamp turntable.gif" crc="3883618502" seo="true" ref="index:3d:phone>index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="3d" alt=""/>
       <caption webpage="3d" alt=""/>
@@ -81,16 +80,15 @@
     <file name="blank.gif" crc="4208392903" ref="index:graphic-designs:animations:personal-art:3d:phone>index"/>
     <file name="toucan.gif" crc="194987861" seo="true" ref="index:3d:phone>index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="3d" alt=""/>
       <caption webpage="3d" alt=""/>
     </file>
     <file name="toucan.jpg" crc="311246453" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="leaf.gif" crc="4221822210" seo="true" ref="index:phone>index">
+    <file name="leaf.gif" crc="4221822210" seo="true" ref="index:phone>index:animations">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="animations" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index:graphic-designs:animations:personal-art:3d:phone>index"/>
     <file name="maface-crop-u4571.jpg" crc="424489908" seo="true" ref="index">
@@ -286,21 +284,21 @@
     <file name="motte and bailey billy jesse.png" crc="194889032" seo="true" ref="3d">
       <caption webpage="3d" alt=""/>
     </file>
-    <file name="reference.jpg" crc="197644050" seo="true" ref="3d">
+    <file name="reference.jpg" crc="469982334" seo="true" ref="3d">
       <caption webpage="3d" alt=""/>
     </file>
-    <file name="toucaan.jpg" crc="199807551" seo="true" ref="3d">
+    <file name="toucaan.jpg" crc="3961833224" seo="true" ref="3d">
       <caption webpage="3d" alt=""/>
     </file>
     <file name="u6259.png" crc="311730373" ref="3d"/>
     <file name="u6259-r.png" crc="121083882" ref="3d"/>
     <file name="u6259-a.png" crc="3982370785" ref="3d"/>
-    <file name="u6279.png" crc="4062880535" ref="3d"/>
-    <file name="u6279-r.png" crc="374284099" ref="3d"/>
-    <file name="u6279-a.png" crc="357547121" ref="3d"/>
-    <file name="u6299.png" crc="3901538133" ref="3d"/>
-    <file name="u6299-r.png" crc="4181283124" ref="3d"/>
-    <file name="u6299-a.png" crc="388721888" ref="3d"/>
+    <file name="u6279.png" crc="3759988602" ref="3d"/>
+    <file name="u6279-r.png" crc="290739230" ref="3d"/>
+    <file name="u6279-a.png" crc="325057821" ref="3d"/>
+    <file name="u6299.png" crc="362729061" ref="3d"/>
+    <file name="u6299-r.png" crc="29682591" ref="3d"/>
+    <file name="u6299-a.png" crc="343552026" ref="3d"/>
     <file name="toucaan.png" crc="3999124066" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
@@ -316,13 +314,21 @@
     <file name="maface-crop-u8658.jpg" crc="62352563" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="elf lady head.gif" crc="505945270" seo="true" ref="index:3d">
+      <caption webpage="index" alt=""/>
+      <caption webpage="3d" alt=""/>
+      <caption webpage="3d" alt=""/>
+    </file>
+    <file name="u8786.png" crc="276213879" ref="animations"/>
+    <file name="u8786-r.png" crc="298252626" ref="animations"/>
+    <file name="u8786-a.png" crc="384524188" ref="animations"/>
   </folder>
-  <file name="index.html" crc="3820634267" seo="true" mt="1515898407218" redirect="true"/>
+  <file name="index.html" crc="224687791" seo="true" mt="1516338401948" redirect="true"/>
   <file name="gallery.html" crc="4017135802" seo="true" mt="1515898407318" redirect="true"/>
   <file name="contact.html" crc="3925308987" seo="true" mt="1515898407697" redirect="true"/>
   <file name="graphic-designs.html" crc="39537103" seo="true" mt="1515898407454" redirect="true"/>
-  <file name="animations.html" crc="4068422956" seo="true" mt="1515898407531" redirect="true"/>
+  <file name="animations.html" crc="95559938" seo="true" mt="1516338503905" redirect="true"/>
   <file name="personal-art.html" crc="103010133" seo="true" mt="1515898407386" redirect="true"/>
   <file name="resume.html" crc="187714359" seo="true" mt="1515898407781" redirect="true"/>
-  <file name="3d.html" crc="3839396857" seo="true" mt="1515898407616" redirect="true"/>
+  <file name="3d.html" crc="230279856" seo="true" mt="1516338431480" redirect="true"/>
 </manifest>
